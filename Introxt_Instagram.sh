@@ -38,11 +38,11 @@ cd Logo && ./introxt_logo
 cd ..
 
 # Prompt for account name and range
-echo "Enter the Account Name:"
+echo "_tanishaaa.k_"
 read mail
-echo "Enter Value Accounts starting from gisiniso1..2..3.. From:"
+echo "From:1"
 read num
-echo "upto:"
+echo "upto:100"
 read value
 
 # Array of IP addresses
